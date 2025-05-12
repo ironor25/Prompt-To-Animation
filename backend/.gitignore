@@ -1,0 +1,25 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore media files
+media/images/
+media/videos/
+
+# Ignore frontend build files
+dist/
+node_modules/
+
+# Ignore specific frontend folders
+frontend/anim_file/__pycache__/
+
+# Ignore other temporary or unnecessary files
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Ignore environment files
+.env
+.env.*
