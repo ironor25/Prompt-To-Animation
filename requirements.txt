@@ -1,0 +1,7 @@
+fastapi
+pydantic
+subprocess
+google
+dotenv
+numpy
+manim
